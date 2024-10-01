@@ -5,13 +5,13 @@
         <div class="space-x-2">
             <div
                 class="self-start text-xt text-gray-700 dark:text-gray-300 group-hover:text-blue-700 dark:group-hover:text-blue-500 hover:underline">
-                <a href="/">Ract Software Ltd</a>
+                <a href="/">Full-Stack Developer</a>
             </div>
         </div>
         <div class="space-x-2">
             <div
                 class="self-start text-xt text-gray-700 dark:text-gray-300 group-hover:text-blue-700 dark:group-hover:text-blue-500 hover:underline">
-                <a href="/">Full-Stack Developer</a>
+                <a href="/">Ract Software Ltd</a>
             </div>
         </div>
     </div>

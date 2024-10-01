@@ -3,7 +3,7 @@
     <div class="space-y-10 mt-10 mb-10 mx-auto dark:bg-gray-900">
 
         <section>
-            <x-section-heading class="text-gray-900 dark:text-white">Contact us</x-section-heading>
+            <x-section-heading class="text-gray-900 dark:text-white">Edit A Single Job</x-section-heading>
 
         </section>
 

@@ -5,13 +5,13 @@
         <div class="space-x-2">
             <div
                 class="self-start text-xt text-gray-700 dark:text-gray-300 group-hover:text-blue-700 dark:group-hover:text-blue-500 hover:underline">
-                <a href="/">GitHub Inc</a>
+                <a href="/">UI/UX Designer</a>
             </div>
         </div>
         <div class="space-x-2">
             <div
                 class="self-start text-xt text-gray-700 dark:text-gray-300 group-hover:text-blue-700 dark:group-hover:text-blue-500 hover:underline">
-                <a href="/">UI/UX Designer</a>
+                <a href="/">GitHub Inc</a>
             </div>
         </div>
     </div>
