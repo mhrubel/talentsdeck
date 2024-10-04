@@ -7,7 +7,6 @@
 
         </section>
 
-
     </div>
 
 </x-layout>

@@ -22,7 +22,7 @@
 
     <div>
 
-        <x-main-menu />
+        <x-menu.main-menu />
 
     </div>
 

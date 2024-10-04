@@ -3,26 +3,25 @@
     <div class="space-y-10 mt-10 mb-10 mx-auto dark:bg-gray-900">
 
         <section>
+
             <x-section-heading class="text-gray-900 dark:text-white">Featured Jobs</x-section-heading>
             <div class="grid grid-cols-1 gap-8 sm:grid-cols-1 md:grid-col-2 lg:grid-cols-2 xl:grid-cols-3">
                 <x-job-card class="bg-white dark:bg-gray-800" />
                 <x-job-card class="bg-white dark:bg-gray-800" />
                 <x-job-card class="bg-white dark:bg-gray-800" />
             </div>
+
         </section>
 
         <section>
-            <x-section-heading class="text-gray-900 dark:text-white">Tags</x-section-heading>
-            <div class="bg-white dark:bg-gray-800 p-4 rounded-lg">
 
-            </div>
+            <x-section-heading class="text-gray-900 dark:text-white">Tags</x-section-heading>
+
         </section>
 
         <section>
             <x-section-heading class="text-gray-900 dark:text-white">Filter</x-section-heading>
-            <div class="bg-white dark:bg-gray-800 p-4 rounded-lg">
 
-            </div>
         </section>
 
         <section>
